@@ -33,7 +33,7 @@ export default {
       count: 0,
       items: [
         {
-          name: "file2",
+          name: "file3",
           menu: [
             { name: "New File" },
             { name: "New Window" },
